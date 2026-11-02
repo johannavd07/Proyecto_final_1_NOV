@@ -1,0 +1,44 @@
+[
+    {
+        "id": "P001",
+        "nombre": "Victor Rivera",
+        "edad": 59,
+        "sexo": "M",
+        "usa_correccion": false
+    },
+    {
+        "id": "P002",
+        "nombre": "Sandra Rengifo",
+        "edad": 56,
+        "sexo": "F",
+        "usa_correccion": false
+    },
+    {
+        "id": "P003",
+        "nombre": "Lina Rivera",
+        "edad": 33,
+        "sexo": "F",
+        "usa_correccion": true
+    },
+    {
+        "id": "P004",
+        "nombre": "Alejandro Rivera",
+        "edad": 20,
+        "sexo": "M",
+        "usa_correccion": true
+    },
+    {
+        "id": "P005",
+        "nombre": "Miguel Angel Cuadros",
+        "edad": 33,
+        "sexo": "M",
+        "usa_correccion": false
+    },
+    {
+        "id": "P006",
+        "nombre": "Johanna Rivera",
+        "edad": 23,
+        "sexo": "F",
+        "usa_correccion": false
+    }
+]
